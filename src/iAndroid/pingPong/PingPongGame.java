@@ -10,7 +10,7 @@ public class PingPongGame extends Thread {
         this.gameBall = theBall;
         this.gameSkillet= theSkillet;
         this.gameView = mainView;
-        //
+        //git
     }
 	
     @Override
@@ -33,6 +33,7 @@ public class PingPongGame extends Thread {
 	            e.printStackTrace();
 	            //marom7
 	            //guliver7
+	            
 	        }
         }
     }
