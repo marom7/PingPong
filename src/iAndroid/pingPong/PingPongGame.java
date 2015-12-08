@@ -31,6 +31,7 @@ public class PingPongGame extends Thread {
 	        {
 	         // TODO Auto-generated catch block
 	            e.printStackTrace();
+	            //marom
 	        }
         }
     }
